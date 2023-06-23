@@ -1,2 +1,2 @@
-# Electric-Car-Store
+CURSO CSS AVANZADO
 Desafío Media Queries
